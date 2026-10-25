@@ -47,6 +47,13 @@ PS> python image_encryption.py decrypt encrypted.bin decrypted.jpeg key.key
 ```
 `decrypted.jpeg` was verified identical to the original source image.
 
+
+
+
+https://github.com/user-attachments/assets/198e07ab-48b2-4af2-9e7d-40fcc6d5bdec
+
+
+
 ## Defensive Takeaways
 
 - Always encrypt sensitive images at rest, not just in transit
